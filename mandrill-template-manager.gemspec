@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "thor"
-  spec.add_dependency "mandrill-api"
+  spec.add_dependency "mandrill-api-json"
   spec.add_dependency "formatador"
   spec.add_dependency "unicode"
   spec.add_dependency "dotenv"
